@@ -1,4 +1,4 @@
-<img width="1919" height="1032" alt="Screenshot 2026-06-18 001248" src="https://github.com/user-attachments/assets/3974ecd2-1217-41f1-8f3c-cc8969442014" /># Portfolio-
+# Portfolio-
 # Date - 17/06/2026
 
 
